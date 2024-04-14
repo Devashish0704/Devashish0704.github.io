@@ -72031,7 +72031,7 @@ A.FA.prototype={
 H(a){var s=null,r=A.ce(25),q=A.a([B.ar,B.ea],t.W),p=A.ce(20)
 return A.cI(s,A.nE(!1,s,!0,A.cI(B.T,A.eH(A.a([A.dT("Download CV",s,s,A.al(a).p3.ax.LP(B.h,B.a9,1.2),s),B.wM,B.Gg],t.p),B.I,B.E,B.X),B.p,s,s,new A.bF(B.aw,s,s,p,s,s,B.M),s,s,s,B.Fz,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Y6(),s,s,s,s),B.p,s,s,new A.bF(s,s,s,r,B.lG,new A.h8(B.jC,B.jB,B.a6,q,s,s),B.M),s,s,s,B.ln,s,s,s)}}
 A.Y6.prototype={
-$0(){A.iv(A.dg("https://drive.google.com/file/d/1KUx7Vg2D1PX76CGorviQlI-09LPXjDSe/view?usp=drivesdk",0,null))},
+$0(){A.iv(A.dg("https://drive.google.com/file/d/1NLvmlYkdpIH3anHLPPcWNdf5ieFUD-kf/view?usp=drivesdk",0,null))},
 $S:0}
 A.o0.prototype={
 H(a){return new A.hD(new A.a2F(this),null)}}
